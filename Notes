@@ -1,0 +1,9 @@
+TimeMachine is a backup utility which has incremental storage.
+
+Kafka is a Publish subscribe messaging rethought as a distributed commit log
+
+Messaging traditionally has two models: queuing and publish-subscribe. In a queue, a pool of consumers may read from a server and each message goes to one of them; in publish-subscribe the message is broadcast to all consumers. Kafka offers a single consumer abstraction that generalizes both of these—the consumer group.
+
+Kafka is often used for operational monitoring data. This involves aggregating statistics from distributed applications to produce centralized feeds of operational data.
+
+
